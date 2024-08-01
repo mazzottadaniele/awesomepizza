@@ -19,7 +19,7 @@ API Use
 ------------
 When the app is in execution, open:
 
-- /swagger-ui/index.html
-- /api-docs
+- http://localhost:8080/swagger-ui/index.html
+- http://localhost:8080/api-docs
 
 to get access to Swagger and OpenAPI docs.
